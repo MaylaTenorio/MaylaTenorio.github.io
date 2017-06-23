@@ -1,0 +1,42 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+
+.nav-mobile {
+display: fixed;
+height:4rem;
+width: 100%;
+top:0;
+margin:0;
+padding:0;
+align-content: center;
+background-color: blue;
+}
+
+.navbuttons-mobil{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+
+
+}
+
+.navbuttons-mobil ul li {
+display:inline;
+margin:1rem;
+}
+
+.navbuttons-mobil ul {
+  margin: 0;
+padding-left: 0;
+}
+
+.logo-mobile{
+
+  margin-left: 0;
+}
