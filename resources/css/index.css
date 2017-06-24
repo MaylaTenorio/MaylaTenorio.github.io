@@ -481,7 +481,8 @@ footer p {
 
 @media only screen and (max-width: 500px) {
 
-#colmar, #academy, .banner, nav, .secondbanner, .course img, .course p, .course h4, .courseimg, .four-col-flex, .fourthtext , .tp, .logo, .secondflex-container{
+#colmar, #academy, .banner, nav, .secondbanner, .course img, .course p,
+.course h4, .courseimg, .four-col-flex, .fourthtext , .tp, .logo, .secondflex-container{
 display: none;}
 
 
