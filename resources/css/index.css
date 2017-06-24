@@ -258,7 +258,7 @@ font-size: 1.25rem;
 
 .row-text a {
   padding-bottom: 0.5rem;
-  text-align: left
+  text-align: left;
   font-weight:600;
   font-family: 'Crimson', serif;
   font-size: 1rem;
@@ -274,6 +274,7 @@ font-size: 1.25rem;
 }
 
 /*ThirdSection*/
+
 .thirdcontainer{
   display: block;
   width: 100%;
@@ -622,6 +623,5 @@ footer {
 margin-top: 1rem;
 margin-bottom: 1rem;
 }
-
 
 }
